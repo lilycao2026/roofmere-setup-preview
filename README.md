@@ -1,6 +1,8 @@
 # roofmere-setup-preview
 
-Roofmere guided setup wizard. Open `index.html` in a browser.
+Installation Guide for **Roofmere Private Cloud** (the self-hosted edition, `roofmere-private-cloud.zip`). Open `index.html` in a browser.
+
+Sign-ups stay off: the guide has the buyer add each family login in Supabase (Add user, Auto Confirm User), as in the ZIP's `DEPLOYMENT.md` (roofmere-template ADR-0022).
 
 ## Versions
 
